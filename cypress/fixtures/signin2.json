@@ -1,0 +1,15 @@
+[{
+    "username":"demoname@gmail.com",
+    "password":"demo12",
+    "expected":"My account - My Shop"
+},
+{
+    "username":"Admin@gmail.com",
+    "password":"xyz123",
+    "expected":"There is 1 error"
+},
+{
+    "username":"xueon@gmail.com",
+    "password":"admin123",
+    "expected":"There is 1 error"
+}]
